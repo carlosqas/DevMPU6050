@@ -1,0 +1,1 @@
+Firmware de teste do MPU6050 usando multithread e usando o Observer Pattern.
